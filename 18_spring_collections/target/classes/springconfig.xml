@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cache="http://www.springframework.org/schema/cache"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/cache http://www.springframework.org/schema/cache/spring-cache.xsd http://www.springframework.org/schema/context https://www.springframework.org/schema/context/spring-context.xsd">
+
+       <context:component-scan base-package="com.st.springcore.*" />
+        <bean id="employee" class="com.st.springcore.beans.Employee">
+                <property name="empId">
+                      <set>
+                              <value>111</value>
+                              <value>222</value>
+                              <value>333</value>
+                              <value>444</value>
+                              <value>555</value>
+                              <null />
+                      </set>
+                </property>
+
+                <property name="name">
+                        <list>
+                               <value>Sam</value>
+                               <value>Albina</value>
+                               <value>Sagar</value>
+                               <value>Lisa</value>
+                               <value>Nyiri</value>
+                              <null />
+                        </list>
+                </property>
+
+                <property name="empCity">
+                        <map>
+                                <entry key="111" value="Mumbai" />
+                                <entry key="222" value="Delhi" />
+                                <entry key="333" value="London" />
+                                <entry key="444" value="Manchestor" />
+                                <entry key="555" value="Newyork"/>
+                        </map>
+                </property>
+        </bean>
+</beans>
