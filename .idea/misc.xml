@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/00_springconstructor_type/pom.xml" />
+        <option value="$PROJECT_DIR$/01_spring_pure_xml_constructor/pom.xml" />
+        <option value="$PROJECT_DIR$/1AD_springcore_constructor/pom.xml" />
+        <option value="$PROJECT_DIR$/02_spring_pure_xml_setter/pom.xml" />
+        <option value="$PROJECT_DIR$/2BD_SpringCollection/pom.xml" />
+        <option value="$PROJECT_DIR$/03_spring_pure_javaconfig_constructor/pom.xml" />
+        <option value="$PROJECT_DIR$/03a_spring_lazy/pom.xml" />
+        <option value="$PROJECT_DIR$/3CD_Constructor_Injection/pom.xml" />
+        <option value="$PROJECT_DIR$/04_spring_pure_javaconfig_setter/pom.xml" />
+        <option value="$PROJECT_DIR$/4CD_springcore_Lifecycle/pom.xml" />
+        <option value="$PROJECT_DIR$/05a_spring_autowiring_constructor/pom.xml" />
+        <option value="$PROJECT_DIR$/5DD_springcore_Lifecycle_interface/pom.xml" />
+        <option value="$PROJECT_DIR$/5ED_springcore_Lifecycle/pom.xml" />
+        <option value="$PROJECT_DIR$/6ED_springcore_Lifecycle_Annotations/pom.xml" />
+        <option value="$PROJECT_DIR$/7FD_springcore_Autowiring/pom.xml" />
+        <option value="$PROJECT_DIR$/7GD_springcore_autowiring_constructor/pom.xml" />
+        <option value="$PROJECT_DIR$/7HD_springcore_autowiring_setter/pom.xml" />
+        <option value="$PROJECT_DIR$/7ID_springcore_autowiring_field_property/pom.xml" />
+        <option value="$PROJECT_DIR$/7JD_springcore_autowiring_qualifier/pom.xml" />
+        <option value="$PROJECT_DIR$/8GD_springcore_primary_qualifier/pom.xml" />
+        <option value="$PROJECT_DIR$/8GDe_springcore_primary_qualifier/pom.xml" />
+        <option value="$PROJECT_DIR$/9HD_stereotype_annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/13_springcore_scope_xml/pom.xml" />
+        <option value="$PROJECT_DIR$/14_spring_scope_javaconfig/pom.xml" />
+        <option value="$PROJECT_DIR$/16_spring_properties_env_javaconfig/pom.xml" />
+        <option value="$PROJECT_DIR$/17_spring_properties_env/pom.xml" />
+        <option value="$PROJECT_DIR$/18_spring_collections/pom.xml" />
+        <option value="$PROJECT_DIR$/springbasics/pom.xml" />
+        <option value="$PROJECT_DIR$/20a_spring_profiles_autowiring_class/pom.xml" />
+        <option value="$PROJECT_DIR$/20b_spring_profiles_autowiring_methods/pom.xml" />
+        <option value="$PROJECT_DIR$/21_spring_java_annotations/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/8GD_springcore_primary_qualifier/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_22" default="true" project-jdk-name="22" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

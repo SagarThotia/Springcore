@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="16_spring_properties_env_javaconfig" />
+        <module name="9HD_stereotype_annotation" />
+        <module name="5DD_springcore_Lifecycle_interface" />
+        <module name="05a_spring_autowiring_constructor" />
+        <module name="7GD_springcore_autowiring_constructor" />
+        <module name="03a_spring_lazy" />
+        <module name="04_spring_pure_javaconfig_setter" />
+        <module name="7FD_springcore_Autowiring" />
+        <module name="1AD_springcore_constructor" />
+        <module name="7JD_springcore_autowiring_qualifier" />
+        <module name="17_spring_properties_env" />
+        <module name="6ED_springcore_Lifecycle_Annotations" />
+        <module name="18_spring_collections" />
+        <module name="springbasics" />
+        <module name="14_spring_scope_javaconfig" />
+        <module name="7ID_springcore_autowiring_field_property" />
+        <module name="4CD_springcore_Lifecycle" />
+        <module name="20a_spring_profiles_autowiring_class" />
+        <module name="01_spring_pure_xml_constructor" />
+        <module name="00_springconstructor_type" />
+        <module name="5ED_springcore_Lifecycle" />
+        <module name="2BD_SpringCollection" />
+        <module name="8GDe_springcore_primary_qualifier" />
+        <module name="02_spring_pure_xml_setter" />
+        <module name="7HD_springcore_autowiring_setter" />
+        <module name="20b_spring_profiles_autowiring_methods" />
+        <module name="21_spring_java_annotations" />
+        <module name="3CD_Constructor_Injection" />
+        <module name="03_spring_pure_javaconfig_constructor" />
+        <module name="13_springcore_scope_xml" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
